@@ -1,6 +1,5 @@
-<h1 style="text-align: center;">Estefanía Domínguez</h1>
-
-
+<div style="width: 150px; height: 50px; background-color: red;"></div>
+<h1>Hello there!</h1>
 <!--
 **EstefaniaDmz/EstefaniaDmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
