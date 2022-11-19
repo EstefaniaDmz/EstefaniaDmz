@@ -1,8 +1,5 @@
-### Hi there 👋
+<h1 style="text-align: center;">Estefanía Domínguez</h1>
 
-## I'm Estefania Dominguez and I'm currently studying Informatics Engineering
-
-I'm hungry
 
 <!--
 **EstefaniaDmz/EstefaniaDmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
