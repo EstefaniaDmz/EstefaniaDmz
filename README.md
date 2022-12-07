@@ -4,11 +4,13 @@
 <h3>Welcome to my profile!</h3>
 <b>I describe myself as...</b>
 <ul> 
-  <li>A</li>
-  <li>B</li>
-  <li>C</li>
+  <li>Responsible</li>
+  <li>Organised</li>
+  <li>Creative</li>
+  <li>Tenacious</li>
+  <li>Curious</li>
 </ul>
-
+<i>I'm always sleepy and hungry</i>
 <!--
 **EstefaniaDmz/EstefaniaDmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
