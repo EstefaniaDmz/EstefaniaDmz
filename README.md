@@ -11,3 +11,4 @@
   <li>Curious</li>
 </ul>
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstefaniaDmz)](https://github.com/EstefaniaDmz/github-readme-stats)
