@@ -1,8 +1,9 @@
 ![estefanía domínguez(1)](https://user-images.githubusercontent.com/60825440/203463410-c576f561-ad32-4c63-b05d-463460224fa1.jpg)
 
 <h1>✨Greetings!✨</h1>
-<h2>I20050009                     I20050009@monclova.tecnm.mx</h2>
-<h3>Welcome to my profile!</h3>
+<h2>Welcome to my profile!</h2>
+<h3>Contact me: </h3><p>I20050009@monclova.tecnm.mx</p>
+<h3>Registration number: </h3><p>I20050009</p>
 <b>I describe myself as...</b>
 <ul> 
   <li>Responsible</li>
