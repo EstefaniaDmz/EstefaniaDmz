@@ -4,7 +4,7 @@
 <b>I describe myself as...</b>
 <ul> 
   <li>Responsible</li>
-  <li>Organised</li>
+  <li>Organized</li>
   <li>Creative</li>
   <li>Tenacious</li>
   <li>Curious</li>
