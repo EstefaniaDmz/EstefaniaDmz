@@ -1,2 +1,2 @@
 <h1>✨Greetings!✨</h1>
-<h2>Welcome to my profile!</h2>
+<p>Welcome to my profile!</p>
